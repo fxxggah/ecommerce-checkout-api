@@ -282,6 +282,6 @@ ecommerce-checkout-api
 
 ## 👤 Autor
 
-Desenvolvido por **Biel** — [@fxxggah](https://github.com/fxxggah)
+Desenvolvido por **Gabriel Oliveira** — [@fxxggah](https://github.com/fxxggah)
 
 Projeto de estudo realizado no desafio prático da [DIO](https://www.dio.me/).
